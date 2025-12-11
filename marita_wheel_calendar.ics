@@ -1,0 +1,464 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//marita-kalender//WheelOfTheYear//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sabbat- og månefasekalender (Wheel of the Year)
+X-WR-TIMEZONE:Europe/Oslo
+
+# 2024
+BEGIN:VEVENT
+UID:imbolc-2024@marita-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20240201
+SUMMARY:Imbolc (Imbolc) 🔥
+DESCRIPTION:Imbolc — Vinterens slutt, tid for nytt håp. (Norwegian / English)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ostara-2024@marita-kalender
+DTSTAMP:20240301T000000Z
+DTSTART;VALUE=DATE:20240320
+SUMMARY:Ostara (Ostara) 🌱
+DESCRIPTION:Ostara — Vårjevndøgn, gjenfødelse og nytt liv.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beltane-2024@marita-kalender
+DTSTAMP:20240501T000000Z
+DTSTART;VALUE=DATE:20240501
+SUMMARY:Beltane (Beltane) 🔥
+DESCRIPTION:Beltane — Feiring av fruktbarhet og kjærlighet.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:litha-2024@marita-kalender
+DTSTAMP:20240621T000000Z
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Litha (Litha / Midsummer) ☀️
+DESCRIPTION:Litha — Sommersonnvende, lys og vekst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lammas-2024@marita-kalender
+DTSTAMP:20240801T000000Z
+DTSTART;VALUE=DATE:20240801
+SUMMARY:Lammas / Lughnasadh (Lammas / Lughnasadh) 🌾
+DESCRIPTION:Lammas — Høstfest, første innhøsting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mabon-2024@marita-kalender
+DTSTAMP:20240922T000000Z
+DTSTART;VALUE=DATE:20240922
+SUMMARY:Mabon (Mabon / Autumn Equinox) 🍂
+DESCRIPTION:Mabon — Høstjevndøgn, takk og balanse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:samhain-2024@marita-kalender
+DTSTAMP:20241101T000000Z
+DTSTART;VALUE=DATE:20241101
+SUMMARY:Samhain (Samhain) 🕯️
+DESCRIPTION:Samhain — Forfedredager, slutten på året og nytt begynner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yule-2024@marita-kalender
+DTSTAMP:20241221T000000Z
+DTSTART;VALUE=DATE:20241221
+SUMMARY:Yule (Yule / Winter Solstice) ❄️
+DESCRIPTION:Yule — Vintersolverv, fødsel av lys.
+END:VEVENT
+
+# 2025
+BEGIN:VEVENT
+UID:imbolc-2025@marita-kalender
+DTSTAMP:20250101T000000Z
+DTSTART;VALUE=DATE:20250201
+SUMMARY:Imbolc (Imbolc) 🔥
+DESCRIPTION:Imbolc — Vinterens slutt, tid for nytt håp. (Norwegian / English)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ostara-2025@marita-kalender
+DTSTAMP:20250301T000000Z
+DTSTART;VALUE=DATE:20250320
+SUMMARY:Ostara (Ostara) 🌱
+DESCRIPTION:Ostara — Vårjevndøgn, gjenfødelse og nytt liv.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beltane-2025@marita-kalender
+DTSTAMP:20250501T000000Z
+DTSTART;VALUE=DATE:20250501
+SUMMARY:Beltane (Beltane) 🔥
+DESCRIPTION:Beltane — Feiring av fruktbarhet og kjærlighet.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:litha-2025@marita-kalender
+DTSTAMP:20250621T000000Z
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Litha (Litha / Midsummer) ☀️
+DESCRIPTION:Litha — Sommersonnvende, lys og vekst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lammas-2025@marita-kalender
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20250801
+SUMMARY:Lammas / Lughnasadh (Lammas / Lughnasadh) 🌾
+DESCRIPTION:Lammas — Høstfest, første innhøsting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mabon-2025@marita-kalender
+DTSTAMP:20250922T000000Z
+DTSTART;VALUE=DATE:20250922
+SUMMARY:Mabon (Mabon / Autumn Equinox) 🍂
+DESCRIPTION:Mabon — Høstjevndøgn, takk og balanse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:samhain-2025@marita-kalender
+DTSTAMP:20251101T000000Z
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Samhain (Samhain) 🕯️
+DESCRIPTION:Samhain — Forfedredager, slutten på året og nytt begynner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yule-2025@marita-kalender
+DTSTAMP:20251221T000000Z
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Yule (Yule / Winter Solstice) ❄️
+DESCRIPTION:Yule — Vintersolverv, fødsel av lys.
+END:VEVENT
+
+# 2026
+BEGIN:VEVENT
+UID:imbolc-2026@marita-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260201
+SUMMARY:Imbolc (Imbolc) 🔥
+DESCRIPTION:Imbolc — Vinterens slutt, tid for nytt håp.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ostara-2026@marita-kalender
+DTSTAMP:20260301T000000Z
+DTSTART;VALUE=DATE:20260320
+SUMMARY:Ostara (Ostara) 🌱
+DESCRIPTION:Ostara — Vårjevndøgn, gjenfødelse og nytt liv.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beltane-2026@marita-kalender
+DTSTAMP:20260501T000000Z
+DTSTART;VALUE=DATE:20260501
+SUMMARY:Beltane (Beltane) 🔥
+DESCRIPTION:Beltane — Feiring av fruktbarhet og kjærlighet.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:litha-2026@marita-kalender
+DTSTAMP:20260621T000000Z
+DTSTART;VALUE=DATE:20260621
+SUMMARY:Litha (Litha / Midsummer) ☀️
+DESCRIPTION:Litha — Sommersonnvende, lys og vekst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lammas-2026@marita-kalender
+DTSTAMP:20260801T000000Z
+DTSTART;VALUE=DATE:20260801
+SUMMARY:Lammas / Lughnasadh (Lammas / Lughnasadh) 🌾
+DESCRIPTION:Lammas — Høstfest, første innhøsting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mabon-2026@marita-kalender
+DTSTAMP:20260922T000000Z
+DTSTART;VALUE=DATE:20260922
+SUMMARY:Mabon (Mabon / Autumn Equinox) 🍂
+DESCRIPTION:Mabon — Høstjevndøgn, takk og balanse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:samhain-2026@marita-kalender
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:Samhain (Samhain) 🕯️
+DESCRIPTION:Samhain — Forfedredager, slutten på året og nytt begynner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yule-2026@marita-kalender
+DTSTAMP:20261221T000000Z
+DTSTART;VALUE=DATE:20261221
+SUMMARY:Yule (Yule / Winter Solstice) ❄️
+DESCRIPTION:Yule — Vintersolverv, fødsel av lys.
+END:VEVENT
+
+# 2027
+BEGIN:VEVENT
+UID:imbolc-2027@marita-kalender
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270201
+SUMMARY:Imbolc (Imbolc) 🔥
+DESCRIPTION:Imbolc — Vinterens slutt, tid for nytt håp.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ostara-2027@marita-kalender
+DTSTAMP:20270301T000000Z
+DTSTART;VALUE=DATE:20270320
+SUMMARY:Ostara (Ostara) 🌱
+DESCRIPTION:Ostara — Vårjevndøgn, gjenfødelse og nytt liv.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beltane-2027@marita-kalender
+DTSTAMP:20270501T000000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Beltane (Beltane) 🔥
+DESCRIPTION:Beltane — Feiring av fruktbarhet og kjærlighet.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:litha-2027@marita-kalender
+DTSTAMP:20270621T000000Z
+DTSTART;VALUE=DATE:20270621
+SUMMARY:Litha (Litha / Midsummer) ☀️
+DESCRIPTION:Litha — Sommersonnvende, lys og vekst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lammas-2027@marita-kalender
+DTSTAMP:20270801T000000Z
+DTSTART;VALUE=DATE:20270801
+SUMMARY:Lammas / Lughnasadh (Lammas / Lughnasadh) 🌾
+DESCRIPTION:Lammas — Høstfest, første innhøsting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mabon-2027@marita-kalender
+DTSTAMP:20270922T000000Z
+DTSTART;VALUE=DATE:20270922
+SUMMARY:Mabon (Mabon / Autumn Equinox) 🍂
+DESCRIPTION:Mabon — Høstjevndøgn, takk og balanse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:samhain-2027@marita-kalender
+DTSTAMP:20271101T000000Z
+DTSTART;VALUE=DATE:20271101
+SUMMARY:Samhain (Samhain) 🕯️
+DESCRIPTION:Samhain — Forfedredager, slutten på året og nytt begynner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yule-2027@marita-kalender
+DTSTAMP:20271221T000000Z
+DTSTART;VALUE=DATE:20271221
+SUMMARY:Yule (Yule / Winter Solstice) ❄️
+DESCRIPTION:Yule — Vintersolverv, fødsel av lys.
+END:VEVENT
+
+# 2028
+BEGIN:VEVENT
+UID:imbolc-2028@marita-kalender
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280201
+SUMMARY:Imbolc (Imbolc) 🔥
+DESCRIPTION:Imbolc — Vinterens slutt, tid for nytt håp.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ostara-2028@marita-kalender
+DTSTAMP:20280301T000000Z
+DTSTART;VALUE=DATE:20280320
+SUMMARY:Ostara (Ostara) 🌱
+DESCRIPTION:Ostara — Vårjevndøgn, gjenfødelse og nytt liv.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beltane-2028@marita-kalender
+DTSTAMP:20280501T000000Z
+DTSTART;VALUE=DATE:20280501
+SUMMARY:Beltane (Beltane) 🔥
+DESCRIPTION:Beltane — Feiring av fruktbarhet og kjærlighet.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:litha-2028@marita-kalender
+DTSTAMP:20280621T000000Z
+DTSTART;VALUE=DATE:20280621
+SUMMARY:Litha (Litha / Midsummer) ☀️
+DESCRIPTION:Litha — Sommersonnvende, lys og vekst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lammas-2028@marita-kalender
+DTSTAMP:20280801T000000Z
+DTSTART;VALUE=DATE:20280801
+SUMMARY:Lammas / Lughnasadh (Lammas / Lughnasadh) 🌾
+DESCRIPTION:Lammas — Høstfest, første innhøsting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mabon-2028@marita-kalender
+DTSTAMP:20280922T000000Z
+DTSTART;VALUE=DATE:20280922
+SUMMARY:Mabon (Mabon / Autumn Equinox) 🍂
+DESCRIPTION:Mabon — Høstjevndøgn, takk og balanse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:samhain-2028@marita-kalender
+DTSTAMP:20281101T000000Z
+DTSTART;VALUE=DATE:20281101
+SUMMARY:Samhain (Samhain) 🕯️
+DESCRIPTION:Samhain — Forfedredager, slutten på året og nytt begynner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yule-2028@marita-kalender
+DTSTAMP:20281221T000000Z
+DTSTART;VALUE=DATE:20281221
+SUMMARY:Yule (Yule / Winter Solstice) ❄️
+DESCRIPTION:Yule — Vintersolverv, fødsel av lys.
+END:VEVENT
+
+# 2029
+BEGIN:VEVENT
+UID:imbolc-2029@marita-kalender
+DTSTAMP:20290101T000000Z
+DTSTART;VALUE=DATE:20290201
+SUMMARY:Imbolc (Imbolc) 🔥
+DESCRIPTION:Imbolc — Vinterens slutt, tid for nytt håp.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ostara-2029@marita-kalender
+DTSTAMP:20290301T000000Z
+DTSTART;VALUE=DATE:20290320
+SUMMARY:Ostara (Ostara) 🌱
+DESCRIPTION:Ostara — Vårjevndøgn, gjenfødelse og nytt liv.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beltane-2029@marita-kalender
+DTSTAMP:20290501T000000Z
+DTSTART;VALUE=DATE:20290501
+SUMMARY:Beltane (Beltane) 🔥
+DESCRIPTION:Beltane — Feiring av fruktbarhet og kjærlighet.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:litha-2029@marita-kalender
+DTSTAMP:20290621T000000Z
+DTSTART;VALUE=DATE:20290621
+SUMMARY:Litha (Litha / Midsummer) ☀️
+DESCRIPTION:Litha — Sommersonnvende, lys og vekst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lammas-2029@marita-kalender
+DTSTAMP:20290801T000000Z
+DTSTART;VALUE=DATE:20290801
+SUMMARY:Lammas / Lughnasadh (Lammas / Lughnasadh) 🌾
+DESCRIPTION:Lammas — Høstfest, første innhøsting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mabon-2029@marita-kalender
+DTSTAMP:20290922T000000Z
+DTSTART;VALUE=DATE:20290922
+SUMMARY:Mabon (Mabon / Autumn Equinox) 🍂
+DESCRIPTION:Mabon — Høstjevndøgn, takk og balanse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:samhain-2029@marita-kalender
+DTSTAMP:20291101T000000Z
+DTSTART;VALUE=DATE:20291101
+SUMMARY:Samhain (Samhain) 🕯️
+DESCRIPTION:Samhain — Forfedredager, slutten på året og nytt begynner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yule-2029@marita-kalender
+DTSTAMP:20291221T000000Z
+DTSTART;VALUE=DATE:20291221
+SUMMARY:Yule (Yule / Winter Solstice) ❄️
+DESCRIPTION:Yule — Vintersolverv, fødsel av lys.
+END:VEVENT
+
+# 2030
+BEGIN:VEVENT
+UID:imbolc-2030@marita-kalender
+DTSTAMP:20300101T000000Z
+DTSTART;VALUE=DATE:20300201
+SUMMARY:Imbolc (Imbolc) 🔥
+DESCRIPTION:Imbolc — Vinterens slutt, tid for nytt håp.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ostara-2030@marita-kalender
+DTSTAMP:20300301T000000Z
+DTSTART;VALUE=DATE:20300320
+SUMMARY:Ostara (Ostara) 🌱
+DESCRIPTION:Ostara — Vårjevndøgn, gjenfødelse og nytt liv.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:beltane-2030@marita-kalender
+DTSTAMP:20300501T000000Z
+DTSTART;VALUE=DATE:20300501
+SUMMARY:Beltane (Beltane) 🔥
+DESCRIPTION:Beltane — Feiring av fruktbarhet og kjærlighet.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:litha-2030@marita-kalender
+DTSTAMP:20300621T000000Z
+DTSTART;VALUE=DATE:20300621
+SUMMARY:Litha (Litha / Midsummer) ☀️
+DESCRIPTION:Litha — Sommersonnvende, lys og vekst.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lammas-2030@marita-kalender
+DTSTAMP:20300801T000000Z
+DTSTART;VALUE=DATE:20300801
+SUMMARY:Lammas / Lughnasadh (Lammas / Lughnasadh) 🌾
+DESCRIPTION:Lammas — Høstfest, første innhøsting.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mabon-2030@marita-kalender
+DTSTAMP:20300922T000000Z
+DTSTART;VALUE=DATE:20300922
+SUMMARY:Mabon (Mabon / Autumn Equinox) 🍂
+DESCRIPTION:Mabon — Høstjevndøgn, takk og balanse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:samhain-2030@marita-kalender
+DTSTAMP:20301101T000000Z
+DTSTART;VALUE=DATE:20301101
+SUMMARY:Samhain (Samhain) 🕯️
+DESCRIPTION:Samhain — Forfedredager, slutten på året og nytt begynner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yule-2030@marita-kalender
+DTSTAMP:20301221T000000Z
+DTSTART;VALUE=DATE:20301221
+SUMMARY:Yule (Yule / Winter Solstice) ❄️
+DESCRIPTION:Yule — Vintersolverv, fødsel av lys.
+END:VEVENT
+
+END:VCALENDAR
